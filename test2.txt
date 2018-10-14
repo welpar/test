@@ -1,1 +1,2 @@
-dkfldsf
+some text 2
+new commit in branch2
